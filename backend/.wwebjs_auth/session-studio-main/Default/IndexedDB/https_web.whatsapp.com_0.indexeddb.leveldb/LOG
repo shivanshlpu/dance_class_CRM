@@ -1,0 +1,87 @@
+2026/07/18-21:06:06.184 2c48 Reusing MANIFEST C:\Users\shiva\Desktop\dance_class_app\backend\.wwebjs_auth\session-studio-main\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2026/07/18-21:06:06.185 2c48 Recovering log #1432
+2026/07/18-21:06:06.251 2c48 Reusing old log C:\Users\shiva\Desktop\dance_class_app\backend\.wwebjs_auth\session-studio-main\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/001432.log 
+2026/07/18-21:06:23.490 40a4 Level-0 table #1453: started
+2026/07/18-21:06:23.515 40a4 Level-0 table #1453: 1258312 bytes OK
+2026/07/18-21:06:23.517 40a4 Delete type=0 #1432
+2026/07/18-21:06:23.557 40a4 Compacting 1@0 + 0@1 files
+2026/07/18-21:06:23.619 40a4 Generated table #1454@0: 28050 keys, 550565 bytes
+2026/07/18-21:06:23.622 40a4 Generated table #1455@0: 497 keys, 41394 bytes
+2026/07/18-21:06:23.622 40a4 Compacted 1@0 + 0@1 files => 591959 bytes
+2026/07/18-21:06:23.623 40a4 compacted to: files[ 0 2 24 0 0 0 0 ]
+2026/07/18-21:06:23.623 40a4 Delete type=2 #1453
+2026/07/18-21:06:26.681 40a4 Compacting 1@1 + 6@2 files
+2026/07/18-21:06:26.739 40a4 Generated table #1456@1: 1204 keys, 2142833 bytes
+2026/07/18-21:06:26.768 40a4 Generated table #1457@1: 2641 keys, 2145619 bytes
+2026/07/18-21:06:26.859 40a4 Generated table #1458@1: 18819 keys, 2192305 bytes
+2026/07/18-21:06:26.986 40a4 Generated table #1459@1: 27801 keys, 2268225 bytes
+2026/07/18-21:06:27.070 40a4 Generated table #1460@1: 24077 keys, 2199579 bytes
+2026/07/18-21:06:27.112 40a4 Generated table #1461@1: 15084 keys, 898045 bytes
+2026/07/18-21:06:27.112 40a4 Compacted 1@1 + 6@2 files => 11846606 bytes
+2026/07/18-21:06:27.114 40a4 compacted to: files[ 0 1 24 0 0 0 0 ]
+2026/07/18-21:06:28.646 40a4 Compacting 1@1 + 8@2 files
+2026/07/18-21:06:28.720 40a4 Generated table #1462@1: 7764 keys, 2127749 bytes
+2026/07/18-21:06:28.834 40a4 Generated table #1463@1: 97596 keys, 2248335 bytes
+2026/07/18-21:06:28.956 40a4 Generated table #1464@1: 101144 keys, 2251500 bytes
+2026/07/18-21:06:29.069 40a4 Generated table #1465@1: 91972 keys, 2242337 bytes
+2026/07/18-21:06:29.170 40a4 Generated table #1466@1: 56764 keys, 2278890 bytes
+2026/07/18-21:06:29.256 40a4 Generated table #1467@1: 55849 keys, 2216689 bytes
+2026/07/18-21:06:29.368 40a4 Generated table #1468@1: 49397 keys, 2215176 bytes
+2026/07/18-21:06:29.405 40a4 Generated table #1469@1: 15916 keys, 2161521 bytes
+2026/07/18-21:06:29.405 40a4 Compacted 1@1 + 8@2 files => 17742197 bytes
+2026/07/18-21:06:29.406 40a4 compacted to: files[ 0 0 24 0 0 0 0 ]
+2026/07/18-21:06:29.406 40a4 Delete type=2 #1436
+2026/07/18-21:06:29.406 40a4 Delete type=2 #1437
+2026/07/18-21:06:29.406 40a4 Delete type=2 #1438
+2026/07/18-21:06:29.406 40a4 Delete type=2 #1439
+2026/07/18-21:06:29.406 40a4 Delete type=2 #1440
+2026/07/18-21:06:29.406 40a4 Delete type=2 #1441
+2026/07/18-21:06:29.406 40a4 Delete type=2 #1442
+2026/07/18-21:06:29.406 40a4 Delete type=2 #1443
+2026/07/18-21:06:29.406 40a4 Delete type=2 #1445
+2026/07/18-21:06:29.407 40a4 Delete type=2 #1446
+2026/07/18-21:06:29.407 40a4 Delete type=2 #1447
+2026/07/18-21:06:29.407 40a4 Delete type=2 #1448
+2026/07/18-21:06:29.407 40a4 Delete type=2 #1449
+2026/07/18-21:06:29.407 40a4 Delete type=2 #1450
+2026/07/18-21:06:29.407 40a4 Delete type=2 #1454
+2026/07/18-21:06:29.407 40a4 Delete type=2 #1455
+2026/07/18-21:07:43.476 40a4 Level-0 table #1471: started
+2026/07/18-21:07:43.504 40a4 Level-0 table #1471: 1171785 bytes OK
+2026/07/18-21:07:43.505 40a4 Delete type=0 #1452
+2026/07/18-21:12:51.354 40a4 Compacting 1@0 + 0@1 files
+2026/07/18-21:12:51.400 40a4 Generated table #1472@0: 8505 keys, 82866 bytes
+2026/07/18-21:12:51.410 40a4 Generated table #1473@0: 1646 keys, 119070 bytes
+2026/07/18-21:12:51.410 40a4 Compacted 1@0 + 0@1 files => 201936 bytes
+2026/07/18-21:12:51.412 40a4 compacted to: files[ 0 2 24 0 0 0 0 ]
+2026/07/18-21:12:51.415 40a4 Compacting 1@1 + 6@2 files
+2026/07/18-21:12:51.446 40a4 Generated table #1474@1: 1203 keys, 2136792 bytes
+2026/07/18-21:12:51.473 40a4 Generated table #1475@1: 2641 keys, 2145619 bytes
+2026/07/18-21:12:51.563 40a4 Generated table #1476@1: 18818 keys, 2192273 bytes
+2026/07/18-21:12:51.674 40a4 Generated table #1477@1: 27801 keys, 2268225 bytes
+2026/07/18-21:12:51.771 40a4 Generated table #1478@1: 24049 keys, 2199768 bytes
+2026/07/18-21:12:51.797 40a4 Generated table #1479@1: 15112 keys, 897392 bytes
+2026/07/18-21:12:51.798 40a4 Compacted 1@1 + 6@2 files => 11840069 bytes
+2026/07/18-21:12:51.801 40a4 compacted to: files[ 0 1 24 0 0 0 0 ]
+2026/07/18-21:12:51.802 40a4 Delete type=2 #1456
+2026/07/18-21:12:51.802 40a4 Delete type=2 #1457
+2026/07/18-21:12:51.802 40a4 Delete type=2 #1458
+2026/07/18-21:12:51.802 40a4 Delete type=2 #1459
+2026/07/18-21:12:51.802 40a4 Delete type=2 #1460
+2026/07/18-21:12:51.802 40a4 Delete type=2 #1461
+2026/07/18-21:12:51.802 40a4 Delete type=2 #1471
+2026/07/18-21:12:51.802 40a4 Delete type=2 #1473
+2026/07/18-21:15:47.606 40a4 Level-0 table #1481: started
+2026/07/18-21:15:47.641 40a4 Level-0 table #1481: 1242195 bytes OK
+2026/07/18-21:15:47.643 40a4 Delete type=0 #1470
+2026/07/18-21:16:13.808 40a4 Level-0 table #1483: started
+2026/07/18-21:16:13.841 40a4 Level-0 table #1483: 1071687 bytes OK
+2026/07/18-21:16:13.843 40a4 Delete type=0 #1480
+2026/07/18-21:16:20.341 40a4 Compacting 2@0 + 1@1 files
+2026/07/18-21:16:20.417 40a4 Generated table #1484@0: 24539 keys, 271795 bytes
+2026/07/18-21:16:20.446 40a4 Generated table #1485@0: 5096 keys, 368633 bytes
+2026/07/18-21:16:20.446 40a4 Compacted 2@0 + 1@1 files => 640428 bytes
+2026/07/18-21:16:20.448 40a4 compacted to: files[ 0 2 24 0 0 0 0 ]
+2026/07/18-21:16:20.449 40a4 Delete type=2 #1472
+2026/07/18-21:16:20.449 40a4 Delete type=2 #1481
+2026/07/18-21:16:20.449 40a4 Delete type=2 #1483
