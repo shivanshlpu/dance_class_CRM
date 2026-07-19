@@ -24,10 +24,15 @@ const app = express();
 app.use(helmet({
   crossOriginResourcePolicy: { policy: "cross-origin" }
 }));
-const allowedOrigins = ['http://localhost:5173', 'http://127.0.0.1:5173'];
+const allowedOrigins = [
+  env.corsOrigin,
+  'http://localhost:5173',
+  'http://127.0.0.1:5173'
+];
 app.use(cors({
   origin: function (origin, callback) {
     // Restrict to frontend origin
+    // allow undefined origin (e.g. from postman or mobile app or server-to-server) or matching origin
     if (!origin || allowedOrigins.includes(origin)) {
       callback(null, true);
     } else {
