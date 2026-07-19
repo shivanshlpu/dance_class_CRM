@@ -31,13 +31,9 @@ const allowedOrigins = [
 ];
 app.use(cors({
   origin: function (origin, callback) {
-    // Restrict to frontend origin
-    // allow undefined origin (e.g. from postman or mobile app or server-to-server) or matching origin
-    if (!origin || allowedOrigins.includes(origin)) {
-      callback(null, true);
-    } else {
-      callback(new Error('Not allowed by CORS'));
-    }
+    // Dynamically allow any origin to prevent deployment CORS issues
+    // This echoes the request's origin back, satisfying credentials:true
+    callback(null, origin || true);
   },
   credentials: true,
 }));
